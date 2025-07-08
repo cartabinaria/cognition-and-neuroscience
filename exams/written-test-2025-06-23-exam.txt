@@ -1,0 +1,5 @@
+1. Compare and contrast electrical and chemical synapses, focusing on their structural differences, mechanisms of signal transmission, and functional implications for neural communication.
+
+2. Explain the computational distinction between model-based and model-free reinforcement learning. How do these computational frameworks help us understand the cognitive processes underlying goal-directed and habitual behavior, and what evidence supports the idea that both systems contribute to behavior?
+
+3. Describe the key functional and architectural similarities and differences between hierarchical convolutional neural networks (HCNNs) and the primate ventral visual pathway.
